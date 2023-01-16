@@ -5,6 +5,7 @@
     "lti", "imsglobal"
   ],
   "license": "MIT",
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "Robert Boes",
