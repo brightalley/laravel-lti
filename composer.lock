@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/brightalley/LTI-Tool-Provider-Library-PHP.git",
-                "reference": "ff6c1b7b4bbb410e3f8fd9e755fea75a1f48d634"
+                "reference": "fa203e123ca82cc10c4ebd5fe168697b2890359f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/brightalley/LTI-Tool-Provider-Library-PHP/zipball/ff6c1b7b4bbb410e3f8fd9e755fea75a1f48d634",
-                "reference": "ff6c1b7b4bbb410e3f8fd9e755fea75a1f48d634",
+                "url": "https://api.github.com/repos/brightalley/LTI-Tool-Provider-Library-PHP/zipball/fa203e123ca82cc10c4ebd5fe168697b2890359f",
+                "reference": "fa203e123ca82cc10c4ebd5fe168697b2890359f",
                 "shasum": ""
             },
             "require": {
@@ -47,7 +47,7 @@
             "support": {
                 "source": "https://github.com/brightalley/LTI-Tool-Provider-Library-PHP/tree/master"
             },
-            "time": "2023-01-16T10:53:11+00:00"
+            "time": "2023-01-16T12:56:56+00:00"
         }
     ],
     "packages-dev": [],
