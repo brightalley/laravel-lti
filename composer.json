@@ -1,5 +1,5 @@
 {
-  "name": "huddledigital/laravel-lti",
+  "name": "brightalley/laravel-lti",
   "description": "A Laravel implementation for the LTI Tool Provider Library",
   "keywords": [
     "lti", "imsglobal"
