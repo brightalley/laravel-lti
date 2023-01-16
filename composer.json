@@ -20,7 +20,7 @@
   ],
   "require": {
     "php": "^5.6|^7.2|^8.1",
-    "brightalley/LTI-Tool-Provider-Library-PHP": "dev-master"
+    "brightalley/lti": "dev-master"
   },
   "autoload": {
     "psr-4": {
