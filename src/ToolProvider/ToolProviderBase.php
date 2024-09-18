@@ -3,6 +3,7 @@
 namespace RobertBoes\LaravelLti\ToolProvider;
 
 use IMSGlobal\LTI\ToolProvider\ToolProvider as IMSToolProvider;
+use RobertBoes\LaravelLti\Exceptions\ToolConsumerInvalidCallException;
 
 class ToolProviderBase extends IMSToolProvider
 {
@@ -21,8 +22,11 @@ class ToolProviderBase extends IMSToolProvider
 
     }
 
-    public function onError()
+    /**
+     * @throws ToolConsumerInvalidCallException
+     */
+    protected function onError() : void
     {
-
+        throw new ToolConsumerInvalidCallException($this->reason);
     }
 }
